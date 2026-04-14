@@ -198,14 +198,151 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Aseguramiento de calidad',
+      significado:
+        'Conjunto de controles preventivos y verificaciones que buscan que la declaración sea exacta, completa, consistente y sustentable antes de presentarla.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'Capacidad de rastrear cada cifra declarada desde el soporte documental hasta el papel de trabajo y la casilla o renglón del formulario.',
+    },
+    {
+      termino: 'Conciliación',
+      significado:
+        'Cruce de información entre fuentes (soportes, bancos, certificados, contabilidad, reportes) para detectar diferencias, omisiones o duplicidades.',
+    },
+    {
+      termino: 'Control interno',
+      significado:
+        'Procedimientos y responsabilidades definidos para reducir riesgos y asegurar el cumplimiento oportuno y correcto de las obligaciones tributarias.',
+    },
+    {
+      termino: 'Corrección de declaración',
+      significado:
+        'Presentación de una nueva declaración del mismo periodo para ajustar errores u omisiones, conforme a las reglas aplicables.',
+    },
+    {
+      termino: 'Sanción por extemporaneidad',
+      significado:
+        'Consecuencia económica por presentar una declaración después del vencimiento, calculada según la norma vigente.',
+    },
+    {
+      termino: 'Intereses moratorios',
+      significado:
+        'Intereses que se generan por pagar el impuesto después del plazo establecido, hasta la fecha de pago.',
+    },
+    {
+      termino: 'Hallazgo',
+      significado:
+        'Diferencia comprobable entre lo observado en la auditoría y el criterio definido (norma, instructivo o procedimiento interno), sustentada con evidencia.',
+    },
+
+    {
+      termino: 'Plan de acción',
+      significado:
+        'Documento que define acciones correctivas o preventivas, responsables, fechas y evidencias para cerrar hallazgos y evitar recurrencia.',
+    },
+    {
+      termino: 'Expediente tributario',
+      significado:
+        'Conjunto organizado de soportes, papeles de trabajo, formularios presentados, constancias y pagos (si aplica) que sustentan el cumplimiento de un periodo.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Archivo General de la Nación. (2000). Ley 594 de 2000 por medio de la cual se dicta la Ley General de Archivos y se dictan otras disposiciones.',
       link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (1989). Decreto Ley 624 de 1989 por el cual se expide el Estatuto Tributario de los impuestos administrados por la Dirección de Impuestos Nacionales.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2012). Decreto 2609 de 2012 por el cual se reglamenta el Título V de la Ley 594 de 2000 en materia de gestión documental.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2015). Decreto 2420 de 2015 por medio del cual se expide el Decreto Único Reglamentario de las normas de contabilidad, de información financiera y de aseguramiento de la información.',
+      link: '',
+    },
+    {
+      referencia:
+        'Consejo de Estado. (2014, abril 30). Sentencia 76001-23-31-000-2006-00242-01 (18971).',
+      link: '',
+    },
+    {
+      referencia:
+        'Dirección de Impuestos y Aduanas Nacionales. (2019). Portal transaccional.',
+      link: '',
+    },
+    {
+      referencia:
+        'Dirección de Impuestos y Aduanas Nacionales. (2020). Impuesto sobre la renta personas naturales año gravable 2020.',
+      link: '',
+    },
+    {
+      referencia:
+        'Dirección de Impuestos y Aduanas Nacionales. (2020, febrero 25). Formulario 300. Declaración del impuesto sobre las ventas – IVA.',
+      link: '',
+    },
+    {
+      referencia:
+        'Dirección de Impuestos y Aduanas Nacionales. (2025). Concepto 0101 de 2025.',
+      link: '',
+    },
+    {
+      referencia:
+        'Dirección de Impuestos y Aduanas Nacionales. (2026). Formularios e instructivos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Dirección de Impuestos y Aduanas Nacionales. (s.f.). Devoluciones y compensaciones.',
+      link: '',
+    },
+    {
+      referencia:
+        'Dirección de Impuestos y Aduanas Nacionales. (s.f.). Formulario 350. Declaración de retenciones en la fuente.',
+      link: '',
+    },
+    {
+      referencia:
+        'Dirección de Impuestos y Aduanas Nacionales. (s.f.). Formularios e instructivos.',
+      link: '',
+    },
+    {
+      referencia:
+        'ICONTEC Internacional. (2015). Norma técnica colombiana NTC-ISO 9001:2015. Sistemas de gestión de la calidad.',
+      link: '',
+    },
+    {
+      referencia:
+        'Junta Central de Contadores. (s.f.). Inspección y vigilancia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Tecnologías de la Información y las Comunicaciones. (2017). G.INF.07 Guía para la gestión de documentos y expedientes electrónicos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (1971). Decreto 410 de 1971 por el cual se expide el Código de Comercio.',
+      link: '',
+    },
+    {
+      referencia:
+        'Secretaría General del Senado de la República. (2026). Estatuto tributario. Artículo 765. Prueba documental.',
+      link: '',
+    },
+    {
+      referencia:
+        'Unidad de Gestión Pensional y Parafiscales. (s.f.). Proceso de determinación y fiscalización.',
     },
   ],
   creditos: [
