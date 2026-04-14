@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Control, auditoría y mejora de procesos tributarios'
