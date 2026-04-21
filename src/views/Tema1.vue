@@ -42,7 +42,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Completitud
-                p.mb-0 La completitud significa que la declaración contenga todos los rubros exigidos y que no se omita información relevante por desconocimiento, desorganización o falta de conciliación previa. Se garantiza al revisar de manera integral el proceso de preparación, consolidar el expediente tributario, analizar fuentes documentales como certificados y extractos, y diligenciar una lista de chequeo que confirme que cada componente requerido ha sido incorporado antes de presentar formalmente la declaración.
+                p.mb-0 La completitud significa que la declaración contenga todos los rubros exigidos y que no se omita información relevante por desconocimiento, desorganización o falta de conciliación previa. Se garantiza, al revisar de manera integral el proceso de preparación, consolidar el expediente tributario, analizar fuentes documentales como certificados y extractos, y diligenciar una lista de chequeo que confirme que cada componente requerido ha sido incorporado antes de presentar formalmente la declaración.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/tema1/img5.png', alt='' style="max-width: 500px").m-auto
@@ -133,7 +133,7 @@
           .row(titulo="Diligenciar y verificar borrador").ajuste-cajaAcordion
             p.mb-3 Implica registrar las cifras en el formulario y revisar que coincidan con el resumen del cálculo. Esta validación permite detectar errores de digitación o ubicación antes del envío definitivo.
           .row(titulo="Firmar, presentar y pagar").ajuste-cajaAcordion
-            p.mb-3 Corresponde a formalizar la declaración mediante la firma electrónica o el mecanismo autorizado, realizar la presentación dentro del plazo y efectuar el pago correspondiente cuando exista obligación.
+            p.mb-3 Corresponde formalizar la declaración mediante la firma electrónica o el mecanismo autorizado, realizar la presentación dentro del plazo y efectuar el pago correspondiente cuando exista obligación.
           .row(titulo="Archivar evidencias").ajuste-cajaAcordion
             p.mb-3 Incluye conservar el formulario presentado, la constancia de envío, el soporte de pago y la versión final del cálculo. Este archivo permite sustentar la información declarada ante eventuales revisiones.
           .row(titulo="Retroalimentar").ajuste-cajaAcordion
@@ -293,7 +293,7 @@
               img(src='@/assets/curso/tema1/img20.svg', alt='' style="max-width: 100px")
         h2 Matriz soporte–dato–casilla
         p.mb-0 Permite rastrear el origen de los valores declarados y su ubicación en el formulario. Este instrumento resulta especialmente útil en rubros sensibles como ingresos, retenciones, deducciones y anticipos, ya que facilita comprobar la coherencia entre soportes documentales, cálculos y registro final.
-    p.mb-5 Para diferenciar obligaciones tributarias, el checklist debe ajustarse al tipo de declaración y al formulario oficial correspondiente. La DIAN centraliza los formularios e instructivos vigentes, lo cual permite confirmar el formulario correcto y su guía de diligenciamiento (Formularios e instructivos, 2026). Asimismo, los instructivos oficiales del impuesto sobre las ventas, de retención en la fuente y del régimen SIMPLE contienen orientaciones operativas útiles para la construcción de controles, como advertencias sobre la naturaleza general del instructivo y condiciones del proceso (DIAN, s.f.).
+    p.mb-5 Para diferenciar obligaciones tributarias, el #[i Checklist] debe ajustarse al tipo de declaración y al formulario oficial correspondiente. La DIAN centraliza los formularios e instructivos vigentes, lo cual permite confirmar el formulario correcto y su guía de diligenciamiento (Formularios e instructivos, 2026). Asimismo, los instructivos oficiales del impuesto sobre las ventas, de retención en la fuente y del régimen SIMPLE contienen orientaciones operativas útiles para la construcción de controles, como advertencias sobre la naturaleza general del instructivo y condiciones del proceso (DIAN, s.f.).
     .row.justify-content-center.mb-5
       .col-xl-10
         .caja-tema1-4(data-aos="zoom-in")

@@ -49,19 +49,19 @@
             li.mb-1
               span.fa-li
                 i.fas.fa-arrow-alt-circle-right
-              | #[b Planear]. Definir controles, criterios de auditoría, responsables y riesgos del proceso.
+              | #[b Planear]: Definir controles, criterios de auditoría, responsables y riesgos del proceso.
             li.mb-1
               span.fa-li
                 i.fas.fa-arrow-alt-circle-right
-              | #[b Hacer].	Ejecutar la elaboración, revisión y presentación de la declaración conforme a lo planificado.
+              | #[b Hacer]: Ejecutar la elaboración, revisión y presentación de la declaración conforme a lo planificado.
             li.mb-1
               span.fa-li
                 i.fas.fa-arrow-alt-circle-right
-              | #[b Verificar]. Evaluar resultados mediante indicadores, conciliaciones y auditoría tributaria aplicada.
+              | #[b Verificar]: Evaluar resultados mediante indicadores, conciliaciones y auditoría tributaria aplicada.
             li.mb-0
               span.fa-li
                 i.fas.fa-arrow-alt-circle-right
-              | #[b Actuar].	Implementar acciones correctivas y ajustes para el siguiente periodo fiscal.
+              | #[b Actuar]: Implementar acciones correctivas y ajustes para el siguiente periodo fiscal.
     .caja-tema1(data-aos="zoom-in")
       .row.align-items-center.justify-content-center
         .col-xl.mb-4.mb-lg-0
@@ -503,15 +503,15 @@
                 li.mb-1
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | #[b Papeles de trabajo]. Corresponden a los archivos de cálculo y conciliación.
+                  | #[b Papeles de trabajo]: Corresponden a los archivos de cálculo y conciliación.
                 li.mb-1
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | #[b Documentos de soporte]. Constituyen la evidencia del hecho económico declarado.
+                  | #[b Documentos de soporte]: Constituyen la evidencia del hecho económico declarado.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | #[b Documentos de trámite]. Incluyen el formulario presentado, la constancia y el comprobante de pago.
+                  | #[b Documentos de trámite]: Incluyen el formulario presentado, la constancia y el comprobante de pago.
             .col-xl-auto.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/tema4/img27.jpg', alt='').m-auto
@@ -594,7 +594,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-xl
             .caja-tema1.ajuste-color-3.mb-4.mb-lg-0(data-aos="fade-right")
-              p Cuando el expediente se gestiona en formato electrónico, la sostenibilidad del proceso depende no solo de conservar los archivos, sino también su contexto documental. Esto incluye metadatos, estructura del expediente y vínculos archivísticos que permitan comprender la relación entre los documentos.
+              p Cuando el expediente se gestiona en formato electrónico, la sostenibilidad del proceso depende no solo de conservar los archivos, sino también de su contexto documental. Esto incluye metadatos, estructura del expediente y vínculos archivísticos que permitan comprender la relación entre los documentos.
               p Las guías técnicas del Archivo General de la Nación orientan la organización de expedientes electrónicos y constituyen una referencia para estructurar sistemas documentales digitales confiables. La sostenibilidad del proceso tributario se logra cuando:
               ul.fa-ul.estilo___ul.mb-0
                 li.mb-1
@@ -612,7 +612,7 @@
           .col-xl-auto.col-md-9(data-aos="fade-left")
             figure
               img(src='@/assets/curso/tema4/img29.png', alt='').m-auto
-        p.mb-5 Esta tabla permite estandarizar la conservación documental y asegurar continuidad del proceso: 
+        p.mb-5 Esta tabla permite estandarizar la conservación documental y asegurar la continuidad del proceso: 
         .row.justify-content-center.mb-5
           .col-xl-10
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -831,7 +831,7 @@
           figure
             img(src='@/assets/curso/tema4/img44.jpg', alt='').m-auto
         .col-xl
-          p.mb-0 Para asegurar su carácter defendible, #[b el informe debe apoyarse en papeles de trabajo estructurados, en especial en la trazabilidad soporte–dato–casilla]. Esta relación permite identificar con precisión dónde se encuentra el soporte, cuál fue el valor calculado, en qué renglón del formulario quedó registrado y qué prueba se aplicó, por ejemplo conciliaciones, recálculos, cruces con certificados o verificaciones del periodo. Sin este encadenamiento técnico, el informe se convierte en un documento opinativo y pierde utilidad como evidencia.
+          p.mb-0 Para asegurar su carácter defendible, #[b el informe debe apoyarse en papeles de trabajo estructurados, en especial en la trazabilidad soporte–dato–casilla]. Esta relación permite identificar con precisión dónde se encuentra el soporte, cuál fue el valor calculado, en qué renglón del formulario quedó registrado y qué prueba se aplicó, por ejemplo: conciliaciones, recálculos, cruces con certificados o verificaciones del periodo. Sin este encadenamiento técnico, el informe se convierte en un documento opinativo y pierde utilidad como evidencia.
     p.mb-5 Adicionalmente, es recomendable clasificar los hallazgos según su impacto, diferenciando entre aquellos que afectan el impuesto o el saldo, los de naturaleza formal o documental y las desviaciones frente a procedimientos internos. Esta clasificación contribuye a priorizar acciones correctivas y evita asignar la misma urgencia a situaciones de naturaleza distinta.
     .caja-tema2-2.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -881,19 +881,19 @@
                 li
                   .lista-ol--cuadro__vineta
                     span 1
-                  | 01_Tablero.
+                  | Tablero.
                 li 
                   .lista-ol--cuadro__vineta
                     span 2
-                  | 02_ListaChequeo.
+                  | Lista de chequeo.
                 li 
                   .lista-ol--cuadro__vineta
                     span 3
-                  | 03_Auditoria.
+                  | Auditoria.
                 li 
                   .lista-ol--cuadro__vineta
                     span 4
-                  | 04_PlanMejora.
+                  | PlanMejora.
                 li 
                   .lista-ol--cuadro__vineta
                     span 5
@@ -941,7 +941,7 @@
           figure
             img(src='@/assets/curso/tema4/img52.jpg', alt='').m-auto
         .col-xl
-          p.mb-0 Finalmente, la integración de indicadores, herramientas de mejora, protocolos institucionales y gestión documental permite que el proceso tributario sea gobernable y replicable en cada periodo. De esta manera, cualquier responsable puede continuar su ejecución con claridad metodológica, control de versiones y evidencia completa, consolidando un enfoque preventivo y sostenible orientado a reducir riesgos fiscales, evitar costos por no calidad y asegurar declaraciones oportunas, coherentes y sustentable
+          p.mb-0 Finalmente, la integración de indicadores, herramientas de mejora, protocolos institucionales y gestión documental permite que el proceso tributario sea gobernable y replicable en cada periodo. De esta manera, cualquier responsable puede continuar su ejecución con claridad metodológica, control de versiones y evidencia completa, consolidando un enfoque preventivo y sostenible orientado a reducir riesgos fiscales, evitar costos por no calidad y asegurar declaraciones oportunas, coherentes y sustentable.
 </template>
 
 <script>

@@ -168,12 +168,12 @@ export default {
             {
               id: 'a',
               texto: 'Omitir el análisis de la causa raíz.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Digitar mal un renglón o no validar el borrador.',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'c',

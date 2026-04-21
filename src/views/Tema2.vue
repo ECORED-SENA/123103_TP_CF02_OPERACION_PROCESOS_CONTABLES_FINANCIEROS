@@ -279,7 +279,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Gestión operativa del trámite
-                p.mb-0 El procedimiento se realiza a través de los canales dispuestos por la #[b DIAN] y suele requerir el alistamiento documental y la verificación previa de requisitos. La entidad pública guías paso a paso para solicitar devoluciones y compensaciones por saldos a favor en el impuesto sobre la renta, así como documentos de apoyo para el trámite en el impuesto sobre las ventas, donde se describen rutas de acceso y recomendaciones prácticas.
+                p.mb-0 El procedimiento se realiza a través de los canales dispuestos por la #[b DIAN] y suele requerir el alistamiento documental y la verificación previa de requisitos. La entidad pública guía paso a paso para solicitar devoluciones y compensaciones por saldos a favor en el impuesto sobre la renta, así como documentos de apoyo para el trámite en el impuesto sobre las ventas, donde se describen rutas de acceso y recomendaciones prácticas.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/tema2/img48.png', alt='' style="max-width: 500px").m-auto
@@ -403,7 +403,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-xl
         .caja-tema1.ajuste-color-4.mb-4.mb-lg-0(data-aos="fade-right")
-          p.mb-0 Además de las devoluciones o compensaciones derivadas de declaraciones de renta o IVA, la DIAN contempla otros trámites según el tipo de impuesto, el origen del pago y el perfil del solicitante. Por esta razón, antes de iniciar cualquier solicitud es necesario identificar el procedimiento exacto y los requisitos aplicables, ya que pueden variar los soportes exigidos, las validaciones y el proceso administrativo. A continuación, los principales trámites que la DIAN relaciona en su sección de devoluciones y compensaciones: 
+          p.mb-0 Además de las devoluciones o compensaciones derivadas de declaraciones de renta o IVA, la DIAN contempla otros trámites según el tipo de impuesto, el origen del pago y el perfil del solicitante. Por esta razón, antes de iniciar cualquier solicitud, es necesario identificar el procedimiento exacto y los requisitos aplicables, ya que pueden variar los soportes exigidos, las validaciones y el proceso administrativo. A continuación, los principales trámites que la DIAN relaciona en su sección de devoluciones y compensaciones: 
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img35.jpg', alt='').m-auto

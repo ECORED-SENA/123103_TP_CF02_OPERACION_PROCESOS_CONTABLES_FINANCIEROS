@@ -20,7 +20,7 @@
       .col-xl
         .caja-tema1.ajuste-color-2(data-aos="fade-left")
           p.mb-0 Este criterio de #[b auditoría aplicada al cumplimiento] implica que no se trata únicamente de revisar cifras, sino de #[b analizar el ciclo completo soporte–dato–casilla–evidencia y de elaborar papeles de trabajo que expliquen de manera clara el resultado obtenido]. Tal perspectiva se articula con el régimen probatorio tributario, según el cual las decisiones de la administración deben sustentarse en hechos demostrados dentro del expediente mediante medios de prueba compatibles con la legislación tributaria.
-    p.mb-0 Además, el alcance de la auditoría tributaria no se limita a impuestos administrados por la DIAN. En aportes al Sistema de Protección Social, la UGPP también fiscaliza y busca determinar la liquidación y pago adecuado, completo y oportuno de las contribuciones parafiscales, por lo que el control del expediente y la coherencia de la información son igualmente relevantes. (UGPP).
+    p.mb-0 Además, el alcance de la auditoría tributaria no se limita a impuestos administrados por la DIAN. En aportes al Sistema de Protección Social, la UGPP también fiscaliza y busca determinar la liquidación y pago adecuado, completo y oportuno de las contribuciones parafiscales, por lo que el control del expediente y la coherencia de la información son igualmente relevantes (UGPP).
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Planeación de auditoría
@@ -137,7 +137,7 @@
               figure.mb-4(data-aos="fade-left")
                 img(src='@/assets/curso/tema3/img10.svg', alt="" style="max-width: 90px").m-auto
             h4.text-center Evidencia
-            p.mb-0.text-center Documentación disponible para responder fiscalización.
+            p.mb-0.text-center Documentación disponible para responder a fiscalización.
     p.mb-5 Esta secuencia permite asegurar trazabilidad de la información y preparar la atención de requerimientos de la administración tributaria, dado el deber legal de aportar información y pruebas (art. 686 E.T.).
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Figura 2.
