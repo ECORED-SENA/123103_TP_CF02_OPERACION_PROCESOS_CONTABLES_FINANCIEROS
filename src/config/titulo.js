@@ -1,1 +1,2 @@
-module.exports = 'Control, auditoría y mejora de procesos tributarios'
+module.exports =
+  'Verificación, control y mejora continua de declaraciones tributarias'
